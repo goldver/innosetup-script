@@ -1,6 +1,6 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;; Program Name:        IOSight Installer    
-;; Description:         Installation IOSight system
+;; Program Name:        Installer    
+;; Description:         Installation system
 ;; Created by:          Michael Vershinin
 ;; Created date:        08/04/2015
 ;; Last Modifyer:       Michael Vershinin
